@@ -12,4 +12,5 @@ git push --set-upstream origin main
 ```
 #### Clone all gists
 `git clone --recurse-submodules https://github.com/[User_Name/cheatsheet`
-NOTE: this will clone every submodule in the repo
+
+**NOTE**: this will clone every submodule in the repo
