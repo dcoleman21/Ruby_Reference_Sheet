@@ -4,3 +4,6 @@
 [submodule "understanding_ternary_conditional_expression"]
 	path = understanding_ternary_conditional_expression
 	url = https://gist.github.com/dcoleman21/d56c6c929d729a4527be2c4b797fb680
+[submodule "creating_user_input"]
+	path = creating_user_input
+	url = https://gist.github.com/dcoleman21/d059c487574719e41bba09b3059f4add
