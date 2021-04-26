@@ -7,3 +7,6 @@
 [submodule "creating_user_input"]
 	path = creating_user_input
 	url = https://gist.github.com/dcoleman21/d059c487574719e41bba09b3059f4add
+[submodule "conditional_assignment"]
+	path = conditional_assignment
+	url = https://gist.github.com/dcoleman21/ea481ce02a84f70c9559d50815907433
