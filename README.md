@@ -16,4 +16,5 @@ Use `--recurse-submodules` option to clone all submodule managed files
 `git clone --recurse-submodules https://github.com/dcoleman21/cheatsheet`
 
 **NOTE**: this will clone every submodule in the repo
+
 [credit from](https://gist.github.com/YumaInaura/7a82df5a1dfe3bf90575191ea1ceee5a)
