@@ -1,3 +1,6 @@
 [submodule "understanding_the_case_statement"]
 	path = understanding_the_case_statement
 	url = https://gist.github.com/dcoleman21/9f844f1eb1325398eb1c34ecfdbc9e48
+[submodule "understanding_ternary_conditional_expression"]
+	path = understanding_ternary_conditional_expression
+	url = https://gist.github.com/dcoleman21/d56c6c929d729a4527be2c4b797fb680
