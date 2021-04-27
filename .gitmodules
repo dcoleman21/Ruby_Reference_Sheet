@@ -10,3 +10,6 @@
 [submodule "conditional_assignment"]
 	path = conditional_assignment
 	url = https://gist.github.com/dcoleman21/ea481ce02a84f70c9559d50815907433
+[submodule "refactoring_examples"]
+	path = refactoring_examples
+	url = https://gist.github.com/dcoleman21/4629a7d367ebca1c029995d8a067dbe2
