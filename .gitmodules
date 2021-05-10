@@ -13,3 +13,6 @@
 [submodule "refactoring_examples"]
 	path = refactoring_examples
 	url = https://gist.github.com/dcoleman21/4629a7d367ebca1c029995d8a067dbe2
+[submodule "blocks_procs_and_lambdas"]
+	path = blocks_procs_and_lambdas
+	url = https://gist.github.com/dcoleman21/7668e7268cda802a240736f701a972bd
