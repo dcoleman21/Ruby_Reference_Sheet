@@ -16,3 +16,6 @@
 [submodule "blocks_procs_and_lambdas"]
 	path = blocks_procs_and_lambdas
 	url = https://gist.github.com/dcoleman21/7668e7268cda802a240736f701a972bd
+[submodule "scope_inheritance_overriding_super"]
+	path = scope_inheritance_overriding_super
+	url = https://gist.github.com/dcoleman21/717279f97041c278f06688593a2ca446
