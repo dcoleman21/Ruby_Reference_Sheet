@@ -19,3 +19,6 @@
 [submodule "scope_inheritance_overriding_super"]
 	path = scope_inheritance_overriding_super
 	url = https://gist.github.com/dcoleman21/717279f97041c278f06688593a2ca446
+[submodule "public_private_modules_mixins"]
+	path = public_private_modules_mixins
+	url = https://gist.github.com/dcoleman21/ad3b269d183108dd8879c355e091ccd7
