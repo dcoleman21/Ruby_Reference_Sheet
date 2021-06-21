@@ -22,3 +22,6 @@
 [submodule "public_private_modules_mixins"]
 	path = public_private_modules_mixins
 	url = https://gist.github.com/dcoleman21/ad3b269d183108dd8879c355e091ccd7
+[submodule "understanding_loops"]
+	path = understanding_loops
+	url = https://gist.github.com/dcoleman21/fa0a4b13a4d975c5942df387af09b58d
